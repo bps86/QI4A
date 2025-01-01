@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="adlayout_hsw" />
+    <item type="id" name="adlayout_id" />
+    <item type="id" name="launcher_tab1" />
+    <item type="id" name="lay_tab1" />
+    <item type="id" name="tv_cmdline" />
+    <item type="id" name="edt_cmdline" />
+    <item type="id" name="tv_path" />
+    <item type="id" name="edt_path" />
+    <item type="id" name="support_btn" />
+    <item type="id" name="launcher_tab2" />
+    <item type="id" name="tv_notification" />
+    <item type="id" name="start_btn" />
+    <item type="id" name="smoothjoy" />
+    <item type="id" name="mapvol" />
+    <item type="id" name="secfinglmb" />
+    <item type="id" name="tv_mprefs" />
+    <item type="id" name="hideonscr" />
+    <item type="id" name="layout_mouseconfig" />
+    <item type="id" name="detectmouse" />
+    <item type="id" name="layout_manualmouseconfig" />
+    <item type="id" name="tv_evnt" />
+    <item type="id" name="edt_mouse" />
+    <item type="id" name="tv_curpos" />
+    <item type="id" name="rg_curpos" />
+    <item type="id" name="cur_tl" />
+    <item type="id" name="cur_tr" />
+    <item type="id" name="cur_bl" />
+    <item type="id" name="cur_br" />
+    <item type="id" name="launcher_tab3" />
+    <item type="id" name="tv_gfx" />
+    <item type="id" name="gfx_32bit" />
+    <item type="id" name="tv_scrres" />
+    <item type="id" name="rg_scrres" />
+    <item type="id" name="res_1x" />
+    <item type="id" name="res_05x" />
+    <item type="id" name="res_2x" />
+    <item type="id" name="res_1080" />
+    <item type="id" name="res_custom" />
+    <item type="id" name="res_customlayout" />
+    <item type="id" name="res_x" />
+    <item type="id" name="res_y" />
+    <item type="id" name="tabhost" />
+    <item type="id" name="menu_settings" />
+</resources>
