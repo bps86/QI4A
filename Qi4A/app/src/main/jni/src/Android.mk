@@ -17,7 +17,7 @@ include $(CLEAR_VARS)
 
 LOCAL_ARM_NEON := true
 #LOCAL_MODULE			:= darkplaces_neon
-TARGET_ARCH_ABI			:= armeabi armeabi-v7a
+TARGET_ARCH_ABI			:= armeabi x86_64
 
 LOCAL_MODULE			:= darkplaces
 
