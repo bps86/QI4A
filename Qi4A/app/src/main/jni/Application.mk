@@ -1,3 +1,3 @@
 APP_PLATFORM := android-9
-APP_ABI := armeabi armeabi-v7a
+APP_ABI := armeabi x86
 LOCAL_ARM_NEON := true
